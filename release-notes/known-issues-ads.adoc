@@ -1,0 +1,19 @@
+---
+sidebar: sidebar
+permalink: release-notes/known-issues-ads.html
+keywords: astra, control center, ads, data store, bugs, known issues, problems
+summary: Known issues identify problems that might prevent you from using this release of the product successfully.
+---
+
+= Known issues with Astra Data Store and this Astra Control Center release
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/release-notes/
+
+Known issues identify problems that might prevent you from using this release of the product successfully.
+
+https://docs.netapp.com/us-en/astra-data-store/release-notes/known-issues.html[See these known issues] that might affect the management of Astra Data Store with the current release of the Astra Control Center.
+
+== Find more information
+* link:../release-notes/known-issues.html[Known issues]
+* link:../release-notes/known-limitations.html[Known limitations]
