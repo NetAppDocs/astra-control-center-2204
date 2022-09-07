@@ -5,7 +5,19 @@ settings:
     pdf_enabled: true
   prod:
     pdf_enabled: true
-    harmony_enabled: true
+  versions:
+    - name: Astra Control Center
+      url: /astra-control-center-2204
+      version-number: "22.04"
+    - name: Astra Control Center
+      url: /astra-control-center
+      version-number: "22.08"
+    - name: Astra Control Center
+      url: /astra-control-center-2112
+      version-number: "21.12"
+    - name: Astra Control Center
+      url: /astra-control-center-2108
+      version-number: "21.08"
 sidebar:
   entries:
     - title: Astra Control Center 22.04 documentation
