@@ -274,4 +274,4 @@ Now that you’ve verified that the prerequisites are met, you're ready to link:
 [discrete]
 == Find more information
 * https://docs.netapp.com/us-en/trident/index.html[Trident documentation^]
-* https://docs.netapp.com/us-en/astra-automation/index.html[Use the Astra Control API^]
+* https://docs.netapp.com/us-en/astra-automation-2204/index.html[Use the Astra Control API^]
