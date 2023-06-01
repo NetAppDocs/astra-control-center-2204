@@ -45,8 +45,7 @@ Astra Control is available in two deployment models:
 
 NetApp has validated some apps to ensure the safety and consistency of the snapshots and backups.
 
-* https://docs.netapp.com/us-en/astra/learn/validated-vs-standard.html[Learn the difference between a validated app and a standard app in Astra Control Service^].
-* https://docs.netapp.com/us-en/astra-control-center/concepts/validated-vs-standard.html[Learn the difference between a validated app and a standard app in Astra Control Center^].
+* https://docs.netapp.com/us-en/astra-control-center-2204/concepts/validated-vs-standard.html#validated-apps[Learn the difference between a validated app and a standard app in Astra Control^].
 
 No matter which type of app that you use with Astra Control, you should always test the backup and restore workflow yourself to ensure that you can meet your disaster recovery requirements.
 
@@ -130,6 +129,6 @@ You can add apps to your cluster. Or, if you have some apps already in the clust
 * https://docs.netapp.com/us-en/astra-control-center/index.html[Astra Control Center documentation^]
 * https://docs.netapp.com/us-en/astra-data-store/index.html[Astra Data Store documentation]
 * https://docs.netapp.com/us-en/trident/index.html[Astra Trident documentation^]
-* https://docs.netapp.com/us-en/astra-automation/index.html[Use the Astra Control API^]
+* https://docs.netapp.com/us-en/astra-automation-2204/index.html[Use the Astra Control API^]
 * https://docs.netapp.com/us-en/cloudinsights/[Cloud Insights documentation^]
 * https://docs.netapp.com/us-en/ontap/index.html[ONTAP documentation^]

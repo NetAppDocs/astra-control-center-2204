@@ -2,8 +2,7 @@ Learn how to deploy MySQL from the https://bitnami.com/stack/mysql/helm[Bitnami 
 
 MySQL is a validated app for Astra Control.
 
-* https://docs.netapp.com/us-en/astra/learn/validated-vs-standard.html[Learn the difference between a validated app and a standard app in Astra Control Service^].
-* https://docs.netapp.com/us-en/astra-control-center/concepts/validated-vs-standard.html[Learn the difference between a validated app and a standard app in Astra Control Center^].
+* https://docs.netapp.com/us-en/astra-control-center-2204/concepts/validated-vs-standard.html#validated-apps[Learn the difference between a validated app and a standard app in Astra Control^].
 
 These instructions apply to both Astra Control Service and Astra Control Center.
 
