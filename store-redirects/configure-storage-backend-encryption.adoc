@@ -1,0 +1,5 @@
+---
+permalink:
+use-acp/configure-storage-backend-encryption.html
+redirect: astra-control-center-2204/index.html
+---
