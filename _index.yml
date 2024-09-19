@@ -1,0 +1,104 @@
+# Start snippet: landing page
+indexpage:
+  title: Astra Control Center 22.04 documentation
+  lead: Astra Control Center software provides application-aware data management of Kubernetes clusters in your on-premise environment. Easily back up Kubernetes apps, migrate data to a different cluster, and instantly create working application clones. If you need to manage Kubernetes apps running in a public cloud, go to the docs for Astra Control Service.
+  summary: Astra Control Center software provides application-aware data management of Kubernetes clusters in your on-premise environment. Easily back up Kubernetes apps, migrate data to a different cluster, and instantly create working application clones. If you need to manage Kubernetes apps running in a public cloud, go to the docs for Astra Control Service.
+  keywords: astra control center, kubernetes, data management, cluster, cloud, on-premises, 2204
+  tiles:
+    - title: Get started with Astra Control Center
+      #image: ./media/outline_directions_run_black_18dp.png
+      links:
+        - title: Learn about Astra Control Center
+          url: /concepts/intro.html
+        - title: What's new in Astra Control Center
+          url: /release-notes/whats-new.html
+        - title: Release notes
+          url: /release-notes/rn_overview.html
+        - title: Try it out
+          url: /get-started/setup_overview.html#add-a-license-for-astra-control-center
+        - title: Install Astra Control Center
+          url: /get-started/install_acc.html
+    - title: Use Astra Control Center
+      links:
+        - title: Manage accounts
+          url: /use/manage-users.html
+        - title: Manage apps
+          url: /use/manage-apps.html
+        - title: Protect apps
+          url: /use/protect-apps.html
+        - title: Clone and migrate apps
+          url: /use/clone-apps.html
+    - title: Use Astra Control API
+      links:
+        - title: Get started with the Astra Control API
+          url: https://docs.netapp.com/us-en/astra-automation-2204/get-started/before_get_started.html
+        - title: API reference
+          url: https://docs.netapp.com/us-en/astra-automation-2204/
+        - title: API workflows
+          url: https://docs.netapp.com/us-en/astra-automation-2204/workflows/workflows_before.html
+#    - title: Use Astra Control Center in VMware
+#      links:
+#        - title: Get started in VMware
+#        - title: Manage apps using VMware
+#        - title: Protect apps using VMware
+#        - title: Migrate apps using VMware
+    - title: Use Astra Control Service
+      #image: ./media/outline_directions_run_black_18dp.png
+      links:
+        - title: Intro to Astra Control Service
+          url: https://docs.netapp.com/us-en/astra/get-started/intro.html
+        - title: What's new
+          url: https://docs.netapp.com/us-en/astra/release-notes/whats-new.html
+        - title: Quick start for Astra Control Service
+          url: https://docs.netapp.com/us-en/astra/get-started/quick-start.html
+    - title: Use Astra Data Store
+      #image: ./media/outline_directions_run_black_18dp.png
+      links:
+        - title: Intro to Astra Data Store
+          url: https://docs.netapp.com/us-en/astra-data-store/concepts/intro.html
+        - title: What's in this release of Astra Data Store
+          url: https://docs.netapp.com/us-en/astra-data-store/release-notes/whats-new.html
+        - title: Quick start for Astra Data Store
+          url: https://docs.netapp.com/us-en/astra-data-store/get-started/quick-start.html
+#    - title: Use Astra Service
+#      links:
+#        - title: Manage accounts
+#          url: https://docs.netapp.com/us-en/astra/use/manage-users.html
+#        - title: Manage apps
+#          url: https://docs.netapp.com/us-en/astra/use/manage-apps.html
+#        - title: Protect apps
+#          url: https://docs.netapp.com/us-en/astra/use/protect-apps.html
+#        - title: Migrate apps
+#          url: https://docs.netapp.com/us-en/astra/use/clone-apps.html
+#        - title: Set up billing
+#          url: https://docs.netapp.com/us-en/astra/use/set-up-billing.html
+    - title: Solution briefs
+      links:
+        - title: PostgreSQL DBaaS with Astra Control
+          url: https://cloud.netapp.com/hubfs/SB-4122-0221-PostgresSQL-DBaaS-with-Astra%20(2).pdf
+        - title: MySQL DBaaS with Astra Control
+          url: https://cloud.netapp.com/hubfs/SB-4110-0221-MySQL-Astra%20(2).pdf
+        - title: Simplify Jenkins lifecycle management
+          url: https://cloud.netapp.com/hubfs/SB-4100-Jenkins%20(2).pdf
+    - title: Demos & tutorials
+      links:
+        - title: Deploy Jenkins
+          url: /solutions/jenkins-deploy-from-helm-chart.html
+        - title: Deploy MariaDB
+          url: /solutions/mariadb-deploy-from-helm-chart.html
+        - title: Deploy MySQL
+          url: /solutions/mysql-deploy-from-helm-chart.html
+        - title: Deploy Postgres
+          url: /solutions/postgres-deploy-from-helm-chart.html
+    - title: Blogs & community
+      links:
+        - title: Slack channel
+          url: https://netapppub.slack.com/#astra
+        - title: Astra Control blog
+          url: https://cloud.netapp.com/blog/topic/astra
+        - title: NetApp Community
+          url: https://community.netapp.com/
+        - title: Kubernetes Hub
+          url: https://cloud.netapp.com/kubernetes-hub
+        - title: Where to get help
+          url: /support/get-help.html
