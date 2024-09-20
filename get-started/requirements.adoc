@@ -204,7 +204,7 @@ You should determine whether you have outside access to the internet. If you do 
 If you do have access to the internet, decide which of the following NetApp systems you will authorize Astra Control Center to integrate with:
 
 * Cloud Insights for monitoring and metrics
-* NetApp Support Site for Active IQ and SmartSolve processing
+* NetApp Support Site for Digital Advisor and SmartSolve processing
 //* IPA for license automation
 ////
 
@@ -293,7 +293,7 @@ NOTE: You can deploy Astra Control Center in a dual-stack Kubernetes cluster, an
 |n/a
 |HTTPS
 |Egress
-|NetApp AutoSupport messages to NetApp Active IQ
+|NetApp AutoSupport messages to Digital Advisor
 
 |n/a
 |HTTPS
